@@ -59,4 +59,16 @@ li {
   display: inline-block;
   margin: 10px;
 }
+
+/* exactly on the page
+router-link-exact-active
+not exactly
+router-link-active (exm: wrong parameter)*/
+
+
+a.router-link-exact-active{
+  color: orange;
+}
 </style>
+
+
